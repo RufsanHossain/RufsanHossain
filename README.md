@@ -4,6 +4,11 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I really enjoy le
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
