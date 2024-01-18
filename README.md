@@ -6,7 +6,7 @@
 
 I'm Rufsan from Bangladesh, and I do Frontend Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
+![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RufsanHossain&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ## Skills and Experience
