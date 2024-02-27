@@ -1,4 +1,7 @@
 # Rufsan Hossain Santo
+
+<img alt="banner" src="https://www.linkedin.com/in/rufsan-hossain-santo/overlay/background-image/"/>
+
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
