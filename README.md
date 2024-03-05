@@ -4,8 +4,6 @@
 
 I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passionate about the intersection of technology and human experience. I bring a unique blend of creativity, technical proficiency, and a keen interest in Artificial Intelligence, Machine Learning, and Data Science. I build user-friendly interfaces and I want to use my skills to add intelligence to them. I want to create apps that learn from data and make smart decisions. I stay updated on the latest tech to keep improving. My goal is to blend frontend development with AI and ML to make awesome, intuitive, and data-driven web apps.
 
-With experience in HTML, CSS, JavaScript, and various front-end frameworks, I have the ability to turn ideas into reality and bring websites to life. My strong problem-solving skills and attention to detail ensure that each project is delivered to the highest standard. Let's connect and see how I can help bring your next project to the forefront of the web.
-
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
