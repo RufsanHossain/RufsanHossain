@@ -1,6 +1,6 @@
 # Rufsan Hossain Santo
 
-<img alt="banner" src="[https://www.linkedin.com/in/rufsan-hossain-santo/overlay/background-image/](https://rb.gy/z9s6r6)"/>
+<img alt="banner" src="https://www.linkedin.com/in/rufsan-hossain-santo/overlay/background-image"/>
 
 I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passionate about the intersection of technology and human experience. I bring a unique blend of creativity, technical proficiency, and a keen interest in Artificial Intelligence, Machine Learning, and Data Science. I build user-friendly interfaces and I want to use my skills to add intelligence to them. I want to create apps that learn from data and make smart decisions. I stay updated on the latest tech to keep improving. My goal is to blend frontend development with AI and ML to make awesome, intuitive, and data-driven web apps.
 
