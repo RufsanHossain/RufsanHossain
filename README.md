@@ -12,6 +12,11 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, GitHub, JIRA
 
+### 🤝 Let's Connect
+
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Email: [J_son](mailto:rufsanhossainsanto@gmail.com)
+
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
