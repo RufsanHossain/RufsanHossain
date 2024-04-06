@@ -2,6 +2,11 @@
 
 <img alt="banner" src="./linkedin-cover (3).png"/>
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
+</p>
+
 I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passionate about the intersection of technology and human experience. I bring a unique blend of creativity, technical proficiency, and a keen interest in Artificial Intelligence, Machine Learning, and Data Science. I build user-friendly interfaces and I want to use my skills to add intelligence to them. I want to create apps that learn from data and make smart decisions. I stay updated on the latest tech to keep improving. My goal is to blend frontend development with AI and ML to make awesome, intuitive, and data-driven web apps.
 
 - 📫 How to reach me **rufsanhossainsanto@gmail.com**
@@ -23,12 +28,6 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
-
-
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
 </p>
 
 ![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
