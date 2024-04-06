@@ -22,7 +22,7 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Frameworks/Libraries**: React, WordPress, BootStrap, TailwindCSS, jQuery
