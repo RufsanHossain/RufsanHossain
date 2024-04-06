@@ -19,6 +19,9 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, GitHub, JIRA
 
+![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RufsanHossain&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
+
 ### 🤝 Let's Connect
 
 <p align="left">
@@ -29,9 +32,6 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
-
-![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RufsanHossain&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
 
 ## My GitHub contributions as a Game of Life
 
