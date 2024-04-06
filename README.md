@@ -10,7 +10,6 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 - **Frameworks/Libraries**: React, WordPress, BootStrap, TailwindCSS, jQuery
 - **Backend**: Node.js, Express, Django
 - **Databases**: MongoDB, PostgreSQL, MySQL
-// - **DevOps/Cloud**: AWS, Docker, Kubernetes, CI/CD
 - **Tools**: Git, GitHub, JIRA
 
 <p> 
