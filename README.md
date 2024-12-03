@@ -19,10 +19,9 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 
 ### 🛠 Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks/Libraries**: React, WordPress, BootStrap, TailwindCSS, jQuery
-- **Backend**: Node.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, JIRA
 
 ![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
