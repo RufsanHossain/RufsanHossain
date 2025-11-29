@@ -24,9 +24,6 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, JIRA
 
-![Rufsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RufsanHossain&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RufsanHossain&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
-
 ## Activity Graph
 
 <img src="/horizontal-divider-gradient.gif">
