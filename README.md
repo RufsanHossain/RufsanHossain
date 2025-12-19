@@ -35,8 +35,3 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 [![GitHub Game of Life](https://github4life.herokuapp.com/RufsanHossain.gif?z=6)](https://github4life.herokuapp.com/RufsanHossain)
 
 (Be sure to click on it for the infinite scrolling version.)
-
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RufsanHossain/count.svg" />
-</p>
