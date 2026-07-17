@@ -1,6 +1,6 @@
 # Rufsan Hossain Santo
 
-<img alt="banner" src="./linkedin-cover (3).png"/>
+<!-- <img alt="banner" src="./linkedin-cover (3).png"/> -->
 
 I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passionate about the intersection of technology and human experience. I bring a unique blend of creativity, technical proficiency, and a keen interest in Artificial Intelligence, Machine Learning, and Data Science. I build user-friendly interfaces and I want to use my skills to add intelligence to them. I want to create apps that learn from data and make smart decisions. I stay updated on the latest tech to keep improving. My goal is to blend frontend development with AI and ML to make awesome, intuitive, and data-driven web apps.
 
@@ -24,11 +24,6 @@ I'm Rufsan from Bangladesh, and I do Frontend Web Development. I am deeply passi
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, JIRA
 
-## Activity Graph
-
-<img src="/horizontal-divider-gradient.gif">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RufsanHossain&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity graph"  />
-</div>
 
 ## My GitHub contributions as a Game of Life
 
